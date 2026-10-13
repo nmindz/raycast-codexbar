@@ -1,6 +1,6 @@
 # CodexBar Raycast Extension
 
-Raycast extension to manage and inspect CodexBar data directly from Raycast.
+Raycast extension to manage and inspect [CodexBar](https://github.com/steipete/CodexBar) data directly from Raycast. Unofficial: not affiliated with the CodexBar project or OpenAI.
 
 ## Commands
 
@@ -43,3 +43,7 @@ pnpm install
 pnpm run lint
 pnpm run build
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE). The extension icon is CodexBar's app icon, used under CodexBar's MIT license; see [NOTICE](NOTICE).
